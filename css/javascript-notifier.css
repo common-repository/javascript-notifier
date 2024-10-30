@@ -1,0 +1,23 @@
+.javascript_notifier {
+	left: 0px;
+	position: fixed;
+	text-align: center;
+	top: 0px;
+	width: 100%;
+	z-index: 999999;
+}
+#javascript_notifier_bar {
+	padding: 0.5em;
+}
+#javascript_notifier_block {
+	display: table;
+	height: 100%;
+}
+#javascript_notifier_block_2 {
+	display: table-cell;
+	vertical-align: middle;
+}
+#javascript_notifier_block_3 {
+	margin-left: auto;
+	margin-right: auto;
+}

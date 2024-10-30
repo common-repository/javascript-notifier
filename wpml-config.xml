@@ -1,0 +1,7 @@
+<wpml-config>
+	<admin-texts>
+		<key name="javascript_notifier_settings">
+			<key name="message"/>
+		</key>
+	</admin-texts>
+</wpml-config>
